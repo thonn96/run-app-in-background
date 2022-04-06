@@ -1,18 +1,14 @@
 [
   {
-    name: "tho",
-    id: "1",
-    status : "ofline"
+    "name": "tho",
+    "status" : "ofline"
   },
   {
-    name: "nguyen",
-    id: "2",
-    status : "ofline"
+    "name": "nguyen",
+    "status" : "busy"
   },
   {
-    name: "ngoc",
-    id: "3",
-    status : "ofline"
+    "name": "ngoc",
+    "status" : "online"
   }
 ]
-  
